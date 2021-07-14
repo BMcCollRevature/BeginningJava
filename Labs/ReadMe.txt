@@ -1,1 +1,1 @@
-Labs are saved into their own folders
+Labs are saved into daily folders
