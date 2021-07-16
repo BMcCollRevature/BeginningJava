@@ -1,0 +1,15 @@
+distance conversions:
+	feet to centimeters (multi feet by 30.48) - done
+	meters to feet (multi meters by 3.281)
+	mile to kilometer (multi mile by 1.609)
+volume conversions:
+	gallon to ounce (multi gallon by 128)
+	cup to tbsp	(multi cup by 16.231)
+	quart to gallon (divide quart by 4)
+	
+weight conversions:
+	pounds to kilos (divide pounds by 2.205)
+	ounce to pound (divide ounce by 16)
+	gram to ounce	(divide gram by 28.35)
+
+	
