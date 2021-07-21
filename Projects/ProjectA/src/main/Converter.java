@@ -57,6 +57,7 @@ public class Converter {
 					}
 				}
 				break;
+		
 			
 			
 		// switch case for volume conversions
@@ -91,6 +92,7 @@ public class Converter {
 				}
 				break;
 			
+		
 		// switch statement for Weight Conversions	
 			case 3: System.out.println("Please enter which weight conversion you want:  ");
 				while(secondaryChoice != 4)
@@ -121,11 +123,12 @@ public class Converter {
 					default: System.out.println("Invalid entry, please enter 1, 2, 3, or 4\n"); 
 					}
 				}
-			
 				break;
-			case 4: System.out.println("Thank you for using this application.");
+			
+			case 4:System.out.println("Thank you for using this application.");
 				break;
 			default: System.out.println("Invalid entry, please enter 1, 2, 3, or 4\n"); 
+	
 			}
 		}
 		
