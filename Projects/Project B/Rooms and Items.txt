@@ -1,0 +1,28 @@
+The Foyer: a small foyer A small entry way that holds coats
+		
+	Items:Look at coats
+
+	
+The Dinnning Room: a room with a large table in the center a room where a family comes and eats dinner together. Also it is a place where party dinners are often held.
+
+	Items:Look at Dishware Cabinet
+
+				
+The Living Room: a large room made for conversation a room with two couches on both sides and a table in between to hold drinks while people converse in the room
+
+	Items: Sit down on couches
+
+
+The Kitchen: a room where cooking happens a room with many utensils to help a person cook
+
+	Items:Look in Fridge
+
+
+The Library: a room filled with books a room with a large desk near some bookshelves that hold many different types of book and dictionaries
+
+	Items: Looks at a book
+
+
+The Porch: Outside of the house There is a door in front of you that is severly damaged
+
+	Items: Kick down door
